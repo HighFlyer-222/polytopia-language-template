@@ -330,7 +330,7 @@
   "TribeSkins/tribeskins.skeleton.description": "Fanatical {0} Cultists devoted to Burzgor shrug off their flesh in the harrowing Thdkrkr Ritual to show their dedication to revenge.",
 
   "TribeSkins/tribeskins.ninja": "Sha-po",
-  "TribeSkins/tribeskins.ninja.description": "In the misty hills around Mt. Xin-xi resides the Sha-Po, a secretive legion of assassins trained in the arts of dealing a silent death to anyone who opposes the {0} Empire.",
+  "TribeSkins/tribeskins.ninja.description": "In the misty hills around Mt. Xin-xi resides the Sha-po, a secretive legion of assassins trained in the arts of dealing a silent death to anyone who opposes the {0} Empire.",
 
   "TribeSkins/tribeskins.scholar": "Lirepacci",
   "TribeSkins/tribeskins.scholar.description": "The scholarly Lirepacci have ventured out of Imperia to gain new perspectives on life through warfare, the study of other cultures, and hours of philosophical debate.",
@@ -1445,7 +1445,7 @@
   "credits.qa": "Quality Assurance",
   "credits.community": "Community Manager",
   "credits.managment": "Management",
-  "credits.debuginfo": "Debug info",
+  "credits.debuginfo": "DEBUG INFO",
   "credits.build": "Build version",
   "credits.os": "OS",
   "credits.screendpi": "Screen DPI",
