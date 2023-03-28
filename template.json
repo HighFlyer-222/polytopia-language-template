@@ -1,5 +1,5 @@
 {
-  "language": "English+",
+  "language": "English",
   "startmenu.new_game": "NEW GAME",
   "startmenu.multiplayer": "MULTIPLAYER",
   "startmenu.resume_game": "RESUME GAME",
@@ -1426,7 +1426,7 @@
   
   "credits.title": "ABOUT",
   "credits.subtitle": "Indie Delight",
-  "credits.midjiwan": "The Battle of Polytopia is constantly being created by Midjiwan, a tiny indie game studio in Stockholm, Sweden.\n\n This custom language was made by Citillan, a Polytopian Linguist and the Creator of the Polarisi Language.\n\n Check out their work at https://github.com/Citillan/.",
+  "credits.midjiwan": "The Battle of Polytopia is constantly being created by Midjiwan, a tiny indie game studio in Stockholm, Sweden.",
   "credits.followus": "Follow Us",
   "credits.platforms": "Multiple platforms",
   "credits.learnmore1": "Want to know everything?",
